@@ -21,6 +21,7 @@ There is also channel (option_pricing_project) on **Quantum London Slack workspa
 
 - @GregorFabjan
 - @pawmasz
+- @FSvO
 
 ### Summary
 
@@ -35,4 +36,4 @@ We agreed to start with simplest option pricing example, so we can recreate it m
 - [ ] invite other QL members
 - [ ] read, understand, and write Qiskit code that's recreating tutorials functionality regarding pricing options
 - [ ] discuss the code in Slack
-- [ ] Zoom meeting at 8th of April
+- [ ] Zoom meeting at 8th of April (<https://us02web.zoom.us/j/82455351865?pwd=SnVMVFY0aGF0Q3BLbjN6SmJrTmtmQT09>)
