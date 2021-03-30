@@ -22,6 +22,7 @@ There is also channel (option_pricing_project) on **Quantum London Slack workspa
 - @GregorFabjan
 - @pawmasz
 - @FSvO
+- @iotaisolutions
 
 ### Summary
 
