@@ -35,8 +35,8 @@ We agreed to start with simplest option pricing example, so we can recreate it m
 
 - [x] create Slack channel
 - [x] create GitHub repository
-- [ ] invite other QL members
+- [x] invite other QL members
 - [ ] read, understand, and write Qiskit code that's recreating tutorials functionality regarding pricing options
 - [ ] discuss the code in Slack
 - [ ] Zoom meeting at 8th of April (<https://us02web.zoom.us/j/82455351865?pwd=SnVMVFY0aGF0Q3BLbjN6SmJrTmtmQT09>)
-- [ ] Update each meeting session summary at https://docs.google.com/document/d/1tEbjgZFuukovSlC3hvvveXQIJc4cHgKhbnoWPFGfnWI/edit
+- [ ] Update each meeting session summary at <https://docs.google.com/document/d/1tEbjgZFuukovSlC3hvvveXQIJc4cHgKhbnoWPFGfnWI/edit>
