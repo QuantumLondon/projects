@@ -5,7 +5,7 @@ This project focuses on real life applications of quantum computing in the world
 The first subject that we chose is **Pricing European Call Options**. You can read about it here:
 
 - Option Pricing using Quantum Computers, Stamatopoulos et al. 2019 (<https://arxiv.org/abs/1905.02666v5>)
-- Quantum Risk Analysis. Woerner, Egger. 2018 (<https://arxiv.org/abs/1905.02666v5>)
+- Quantum Risk Analysis. Woerner, Egger. 2018 (<https://arxiv.org/abs/1806.06893>)
 
 The tutorial we'll use as guidelines for this project can be found here:
 
